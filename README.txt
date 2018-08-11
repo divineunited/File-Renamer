@@ -1,0 +1,2 @@
+# This application renames files based on a user input directory, word that needs to be changed, and word that it will be changed to.
+# It also has optional capabilities to add a date stamp to a .txt file that has been renamed
